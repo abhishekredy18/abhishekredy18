@@ -5,15 +5,15 @@
   
 - 🔭 Currently working on **Deep Learning applications for Autonomous Navigation and Reinforcement Learning in the Transportation domain**.
 
-- 🚀 Launched the [IDDAW Dataset](https://iddaw.github.io/) :  A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather.
+- 🚀 Launched the **[IDDAW Dataset](https://iddaw.github.io/) :  A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather.**
 
-- 📖 Interested in AI Applications in the Field of Agriculture.
+- 📖 Interested in **AI Applications in the Field of Agriculture.**
   
-- 💬 Ask me about ML, DL, and RL.
+- 💬 Ask me about **ML, DL, and RL.**
 
 - 👯 Open to exciting collaborations on projects involving **Computer Vision & RL applications**.
 
-- 📫 Reach me at: abhishekreddy3134@gmail.com
+- 📫 Reach me at: **abhishekreddy3134@gmail.com**
 
 <p align="center"> 
 	<a href="https://twitter.com/abhishekredy18"><img src="imgs/twitter.svg" alt="Twitter"></a>
