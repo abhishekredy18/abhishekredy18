@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Abhishek Reddy</h1>
 <h3 align="center">Contributing to Advancements in Machine Learning</h3>
 
-- 🏛️ Research Assistant at **ML Lab, IIIT Hyderabad**.
+- 🏛️ I am a Research Assistant at **ML Lab, IIIT Hyderabad**.
   
 - 🔭 Currently working on **Deep Learning applications for Autonomous Navigation and Reinforcement Learning in the Transportation domain**.
 
