@@ -17,10 +17,10 @@
 
 <p align="center"> 
 	<a href="https://twitter.com/abhishekredy18"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/abhishekredy18"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/abhishekredy18"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://drive.google.com/file/d/13ceRUpHnC9RnU3DrFgQrc8viyZYvZBda/view"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://scholar.google.com/citations?user=KNUhL4oAAAAJ&hl=en&authuser=1"><img src="imgs/citations.svg" alt="Citations"></a>
+	<a href="https://github.com/abhishekredy18"><img src="imgs/github.svg" alt="GitHub"></a>
 </p>
 
 
