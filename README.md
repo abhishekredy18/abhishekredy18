@@ -10,12 +10,12 @@
   <p><strong>Open to Collaboration:</strong> Exciting Projects in Computer Vision & Reinforcement Learning 🧙‍♂️🚀</p>
 
 
-  <a href="https://www.linkedin.com/in/sandeepnaagar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/abhishekredy18/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"></a>
   <a href="https://drive.google.com/file/d/13ceRUpHnC9RnU3DrFgQrc8viyZYvZBda/view"><img src="https://img.shields.io/badge/CV-Resume-orange" alt="CV Badge"></a>
   <a href="mailto:abhishekreddy3134@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-blue?style=flat&logo=gmail" alt="Gmail Badge"></a>
   <a href="https://github.com/abhishekredy18"><img src="https://img.shields.io/badge/GitHub-Profile-green?style=flat&logo=github" alt="GitHub Badge"></a>
   <a href="https://scholar.google.com/citations?user=KNUhL4oAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-informational?style=flat&logo=google-scholar&logoColor=white&color=4285F4" alt="Google Scholar Badge"></a>
-  <a href="https://twitter.com/NaagarRN"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="Twitter Badge"></a>
+  <a href="https://twitter.com/abhishekredy18"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="Twitter Badge"></a>
 </div>
 
 
