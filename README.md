@@ -5,7 +5,7 @@
   <p><strong>Research Assistant</strong> | ML Lab, IIIT Hyderabad 🏛️</p>
   <p><strong>Current Focus:</strong> Exploring the depths of Deep Learning and Reinforcement Learning for Autonomous Navigation 🤖</p>
   <p><strong>Project:</strong> Launched the <a href="https://iddaw.github.io/">IDDAW Dataset</a> - A Benchmark for Safe Segmentation in Unstructured Traffic and Adverse Weather 🌦️</p>
-  <p><strong>Area of Interest:</strong> Cultivating AI Applications in Agriculture 🌾</p>
+  <p><strong>Area of Interest:</strong> AI Applications in Agriculture 🌾</p>
   <p><strong>Expertise:</strong> DL and RL 🎩✨</p>
   <p><strong>Open to Collaboration:</strong> Exciting Projects in Computer Vision & Reinforcement Learning 🧙‍♂️🚀</p>
 
