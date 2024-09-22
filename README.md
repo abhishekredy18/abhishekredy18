@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hi there! 👋 I'm Abhishek Reddy</h1>
   <h3>Machine Learning Enthusiast | Passionate about Advancements in AI 🚀</h3>
 
